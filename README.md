@@ -23,6 +23,4 @@ This contract uses the RNG system, wherein RNG means 'Random Number Generated', 
 
 Design flow:
 ![Image](RNGLottery.jpg "RNG")
-=======
->>>>>>> f105fe02623bd30a4d29152343754cb9205c10ed
-# Lottery
+
