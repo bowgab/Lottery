@@ -1,5 +1,5 @@
 # Lottery
-<<<<<<< HEAD
+
 Hyperledger Lottery Game with Design Flow
 
 
