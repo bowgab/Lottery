@@ -24,3 +24,10 @@ This contract uses the RNG system, wherein RNG means 'Random Number Generated', 
 Design flow:
 ![Image](RNGLottery.jpg "RNG")
 
+## Powerball
+
+This contract based from a very famous lottery game in the world. This is a game of guessing numbers, wherein if the participant's guess matchess the generated numbers then they will win some of the ticket prize in accordance to the numbers that matched. 
+
+**Design flow:**
+![Image](PowerballLottery.jpg "Powerball")
+
